@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643872772553",
+    "firebase_url": "https://cnpm-a78f2-default-rtdb.firebaseio.com",
+    "project_id": "cnpm-a78f2",
+    "storage_bucket": "cnpm-a78f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643872772553:android:a7e7a9a82cc183a2099818",
+        "android_client_info": {
+          "package_name": "huflit.baitap.congnghephanmen_chotot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643872772553-sgittn782v9gll8f5o2jsenccgatjssn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMhrlVt7UnlWGrQHyAlRnCbW5bPM4ghfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643872772553-sgittn782v9gll8f5o2jsenccgatjssn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
